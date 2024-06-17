@@ -8,8 +8,8 @@
 <h3 align="left">Языки:</h3>
   
    ![javascript](https://img.shields.io/badge/javascript-292929?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
  
-  
 <h3 align="left">Front-End Development:</h3>
   
   ![html5](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -18,7 +18,7 @@
   ![vuejs](https://img.shields.io/badge/vuejs-00a86b?style=for-the-badge&logo=vue.js&logoColor=white)
   ![typescript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Pinia](https://img.shields.io/badge/Pinia-FFD700?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  
  
 <!-- <p align="left"> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p> -->
 <!-- <p align="left"> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
