@@ -1,6 +1,5 @@
 <h1 align="center">Привет! 👋, Меня зовут Альбина</h1>
-<h3 align="center">Я начинающий frontend разработчик.<h3> 
-<h3 align="center">C большим энтузиазмом отношусь к изучению новых технологий.</h3>
+<h3 align="center">C большим энтузиазмом отношусь к изучению новых технологий</h3>
 
 - 📫 EMAIL **axioma.25@gmail.com**
 
@@ -17,13 +16,11 @@
   ![css3](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=SASS&logoColor=white)
   ![vuejs](https://img.shields.io/badge/vuejs-00a86b?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![typescript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Pinia](https://img.shields.io/badge/Pinia-FFD700?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
  
 <!-- <p align="left"> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p> -->
-  
- <h3 align="left">Сейчас изучаю:</h3>
-  
-  ![typescript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-  
 <!-- <p align="left"> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
 
 
