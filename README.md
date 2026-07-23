@@ -54,8 +54,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anemens3-oss&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anemens3-oss&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Albina25&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Albina25&theme=tokyonight"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Albina25&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
