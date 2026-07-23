@@ -33,7 +33,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=ALBINA%20KASHAPOVA&fontSize=65&fontColor=00FFFF&animation=fadeIn&fontAlignY=35"/>
 
 <h3 align="center">
-💻 Frontend Developer | React Developer | Future Full-Stack Engineer
+💻 Frontend Developer | React Developer
 </h3>
 
 
@@ -43,18 +43,9 @@
 
 ---
 
-## 🚀 About Me
-
-- 🌱 Сейчас изучаю JavaScript, React
-- 💻 Создаю сайты и веб-приложения
-- 📚 Каждый день изучаю что-то новое
-- 🎯 Цель — стать сильным Frontend Developer
-
----
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,typescript,pinia,fsd,antd,git,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,typescript,pinia,feature-sliced-design,antdesign,git,figma" />
 
 </p>
 
@@ -77,22 +68,10 @@
 
 ---
 
-## 🧊 3D Contribution Galaxy
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-</p>
-
 ## 🐍 Snake Eating Contributions
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/anemens3-oss/anemens3-oss/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-<p align="center">
-<img width="500" src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-computer.gif"/>
 </p>
 
 ---
