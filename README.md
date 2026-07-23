@@ -30,7 +30,7 @@
 <a href="https://instagram.com/albina.axioma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=VADIM%20KASHAPOV&fontSize=65&fontColor=00FFFF&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=ALBINA%20KASHAPOVA&fontSize=65&fontColor=00FFFF&animation=fadeIn&fontAlignY=35"/>
 
 <h3 align="center">
 💻 Frontend Developer | React Developer | Future Full-Stack Engineer
@@ -54,7 +54,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,typescript,pinia,fsd,antd,git,figma" />
 
 </p>
 
